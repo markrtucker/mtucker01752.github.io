@@ -26,7 +26,22 @@ Solaris, AIX, zLinux
 
 ### Architect, Watson Visual Recogntion, IBM (September, 2016 - Present)
 
+Architect and lead developer for the Watson Visual Recognition service. This service allows users to quickly and accurately tag, classify and search visual content using machine learning algorithms.
+
+- Led development effort to port the Visual Recognition service from monolithic AWS deployment to a service-oriented, containerized deployment on Kubernetes in the IBM Cloud.
+- Demonstrated scalable architecture showing how this system could scale from the original system's 10 requests per second to over 500 requests per second via horizontal scaling techniques.
+- Mentored multiple junior developers to guide significant new microservice development, and also to port existing code.
+- Led effort to re-define the API to consolidate capabilities into a consistent framework, simplifying the overall architecture of the service while providing increased usability of the REST API.
+- Led a squad of 7 developers to design, implement, test, and deploy the new Custom Object Detection feature,
+
 ### Test-Focused Software Engineering Manager, Watson Cloud Services, IBM (April, 2014 - August, 2016)
+
+Manager for Software Engineers in Test for the Watson Cloud Platform and Services. The Watson Services enable users to turn unstructured data into meaningful insights to enable better decision making.
+
+- Managed up to 30 Test-Focused Software Engineers across the entire Watson Platform.
+- Hired 12 contractors with specialized skills to supplement full-time staff.
+- Partnered with development managers across the organization to provide test expertise in strategic areas.
+- Mentored engineers and peer managers in Agile methods and practices.
 
 ### Software Engineering and Quality Assurance Manager,  Metadata Management, IBM (March, 2013 - March, 2014)
 
