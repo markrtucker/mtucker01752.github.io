@@ -2,7 +2,7 @@
 
 Dear Recruiters,
 
-I get a *lot* of email/LinkedIn messages about job opportunities. While I am happy to read these messages, you should know that I am not actively looking (at least as of August, 2018). So I am *very* selective about what I will even consider. Before reaching out to me, these are the basic requirements for me to consider any discussion about a new opportunity.
+I get a *lot* of email/LinkedIn messages about job opportunities. While I am happy to read these messages, you should know that I am not actively looking (at least as of August, 2018). So I am *very* selective about what I will even consider. Before reaching out to me, please consider these basic requirements for any new opportunity.
 
 - **Location**: Because of my current personal and family situation, I am not willing to take on a long commute. This means that I would only consider jobs in the Metro-West area (i.e., Framingham, Marlborough, Westborough, and perhaps immediately surrounding towns).
 - **Team**: I really enjoy working with a co-located, diverse team of smart people solving hard problems. I am not interested in working on a team that is highly distributed. I *might* consider a situation where a company is completely remote and has the tools and culture to support this environment.
