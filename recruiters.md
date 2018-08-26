@@ -10,8 +10,9 @@ I get a *lot* of email/LinkedIn messages about job opportunities. While I am hap
 - **Technology**: I have worked hard to remain pragmatic and flexible around tools and languages throughout my career. I am not tied to anything specific. That said, I see languages like Go and Python as the next wave in the industry. I am not interested in working in Java.
 - **Career Path**: One of the things I like about working for IBM is that there is a clear, defined, non-managerial career path for software professionals. I tried management - I didn't like it. I can still offer leadership in a non-management role.
 - **Salary**: Without getting in to specifics, IBM's technical career path offers pay grades above the typical "senior software engineer" role. Since I am reasonably happy in my current position, I will absolutely not consider taking a pay cut for any new opportunity.
+- **Travel**: I am not interested in a position that requires a lot of travel. Minimal, domestic travel is fine - up to about 10% would be reasonable.
 
-So, if you have a position that meets all of these points, please do feel free to reach out to me. Please include details that let me know you have read this and how your job aligns with my requirements. If you reach out with opportunities that do not **clearly** match these criteria, you will get a simple "no thanks" response.
+If you have a position that meets all of these points, please do feel free to reach out to me. Please include details that let me know you have read this and how your job aligns with my requirements. If you reach out with opportunities that do not **clearly** match these criteria, you will get a simple "no thanks" response.
 
 I know your job is hard - I'm trying to make it easier by laying out the basic requirements so that you can quickly rule me out as a potential candidate.
 
