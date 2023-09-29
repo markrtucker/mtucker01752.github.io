@@ -8,11 +8,12 @@ I am a principal/architect level software engineer with deep experience in serve
 
 The items listed here are areas where I have meaningful, professional experience. 
 
-Go, Java, C/C++, JDBC
-XML, YAML, UML
-DB2, SQL Server, Oracle, MySQL, PostgreSQL
-WebSphere, JBoss, Tomcat
-Ant, Maven
+Go, Python, Java, C/C++
+Kubernetes, Docker, IBM Cloud
+JSON, YAML, XML, UML
+PostgreSQL, DB2, SQL Server, Oracle, MySQL
+WebSphere, JBoss, Tomcat, JDBC
+Jenkins, Ant, Maven
 Windows, Linux
 Agile Methodologies: Scrum, XP, ScrumMaster 
 
@@ -24,7 +25,15 @@ Solaris, AIX, zLinux
 
 ## Work Experience
 
-### Architect, Watson Visual Recogntion, IBM (September, 2016 - Present)
+### Principal Software Engineer, Geospatial Analytics, IBM (September, 2016 - May, 2019)
+
+Lead developer for data ingestion processing for IBM PAIRS - the geospatial analytics data platform at the core of IBM Environmental Intelligence Suite. We ingest data from disparate sources (weather forecast, weather observations, satellite and aerial imagery, etc.) and align it into a consistent projection for centralized storage and later analytics and query processing.
+
+- Led the effort to modernize the data ingestion process, migrating research-written, shell script based processing into a Python based scalable workflow solution
+- Ported legacy Travis-based build system into Jenkins, enabling consistent security scans and automated testing on a reliable and scalable platform
+- Architected and implemented the solution for migrating the ingestion process from a bare-metal docker deployment into a cloud-based kubernetes deployment, enabling 30x faster ingestion through horizontal scaling while reducing the overall solution cost by a factor of 2
+
+### Architect, Watson Visual Recogntion, IBM (September, 2016 - May, 2019)
 
 Architect and lead developer for the Watson Visual Recognition service. This service allows users to quickly and accurately tag, classify and search visual content using machine learning algorithms.
 
